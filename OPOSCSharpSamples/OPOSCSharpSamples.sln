@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPOSScannerSample", "OPOSScannerSample\OPOSScannerSample.csproj", "{F1D771E1-4935-47EA-8F18-05225DB459DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPOSScaleSample", "OPOSScaleSample\OPOSScaleSample.csproj", "{41CC17A4-B184-456E-BEE9-6C960630C388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D771E1-4935-47EA-8F18-05225DB459DD}.Debug|x86.ActiveCfg = Debug|x86
+		{F1D771E1-4935-47EA-8F18-05225DB459DD}.Debug|x86.Build.0 = Debug|x86
+		{F1D771E1-4935-47EA-8F18-05225DB459DD}.Release|x86.ActiveCfg = Release|x86
+		{F1D771E1-4935-47EA-8F18-05225DB459DD}.Release|x86.Build.0 = Release|x86
+		{41CC17A4-B184-456E-BEE9-6C960630C388}.Debug|x86.ActiveCfg = Debug|x86
+		{41CC17A4-B184-456E-BEE9-6C960630C388}.Debug|x86.Build.0 = Debug|x86
+		{41CC17A4-B184-456E-BEE9-6C960630C388}.Release|x86.ActiveCfg = Release|x86
+		{41CC17A4-B184-456E-BEE9-6C960630C388}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2575AAA-AC9D-480D-BCEE-C2DB9B62C88C}
+	EndGlobalSection
+EndGlobal
